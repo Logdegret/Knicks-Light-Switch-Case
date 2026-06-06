@@ -10,9 +10,12 @@ Welcome to the Knicks Light Switch Case repository! This project contains the ST
 <img width="747" height="438" alt="Screenshot 2026-06-06 at 11 15 08 AM" src="https://github.com/user-attachments/assets/70b4da99-24b5-4b39-90cb-adc60f8458b1" />
 
 * Color SwapsSet up pauses at specific layer heights for multi-color effects on single-extruder printers.
-#🔧 Installation Instructions ⚠️ Safety First:
+
+
+# 🔧 Installation Instructions ⚠️ Safety First:
 * Always turn off the power at the breaker before removing or installing any electrical faceplates.
-* Remove your existing light switch cover screws.Carefully take off the old cover.Align your new Knicks Light Switch Case over the switch.
+* Remove your existing light switch cover screws.Carefully take off the old cover.
+* Align your new Knicks Light Switch Case over the switch.
 * Secure it using the original screws.
 * Do not overtighten, or the plastic may crack!
   
