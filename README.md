@@ -25,3 +25,7 @@ LICENSE: Open-source licensing info.
 
 # Contributing & Feedback 🤝 
 * Got an idea to improve the design? Feel free to fork this repo, open an issue, or submit a pull request. Let's go Knicks!
+
+
+# AI USAGE:
+* Used to make this readme but nothing else!!
